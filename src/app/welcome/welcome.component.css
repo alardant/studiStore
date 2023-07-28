@@ -1,0 +1,10 @@
+.welcomeText {
+    padding-top: 50px;
+    margin-left: 15px;
+}
+
+.welcomeLogoText {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
